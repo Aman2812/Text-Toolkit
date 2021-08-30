@@ -30,9 +30,9 @@ const Footer = () => {
         <h4>Social Accounts</h4>
         <ul className="list-unstyled">
         <li>
-        <a href="https://www.facebook.com/amanrawal2812" className="fa fa-facebook"></a>
-        <a href="https://www.instagram.com/its.amankr/" className="fa fa-instagram"></a>
-        <a href="https://www.linkedin.com/in/aman-kumar2812/" className="fa fa-linkedin"></a>
+        <a href="https://www.facebook.com/amanrawal2812"><i className="fa fa-facebook"></i></a>
+        <a href="https://www.instagram.com/its.amankr/" ><i className="fa fa-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/aman-kumar2812/"><i className="fa fa-fa fa-linkedin"></i></a>
         </li>
         <li>updated soon...</li>
         </ul>
